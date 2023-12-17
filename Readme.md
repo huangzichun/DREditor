@@ -1,5 +1,6 @@
 # DReditor
 > **Co-author**: Duanyu Feng (Sichuan University), Chen Huang (Sichuan University)
+
 This is the code of our model **DReditor**, which is an computation-effective approach for domain-specific Dense Retrieval (DR) with training free.
 
 ## Requirements
