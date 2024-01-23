@@ -3,6 +3,9 @@
 
 This is the code of our model **DReditor**, which is an computation-effective approach for domain-specific Dense Retrieval (DR) with training free.
 
+## Paper
+Coming soon
+
 ## Requirements
 Our framework is based on the previous work, BEIR, which is a heterogeneous benchmark containing diverse IR tasks. Therefore, the requirements of our framework are the same as the BEIR. See more detail in 
 
