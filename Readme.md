@@ -4,7 +4,7 @@
 This is the code of our model **DReditor**, which is an computation-effective approach for domain-specific Dense Retrieval (DR) with training free.
 
 ## Paper
-Coming soon
+[Click Me](https://arxiv.org/pdf/2401.12540.pdf)
 
 ## Requirements
 Our framework is based on the previous work, BEIR, which is a heterogeneous benchmark containing diverse IR tasks. Therefore, the requirements of our framework are the same as the BEIR. See more detail in 
@@ -62,4 +62,18 @@ An example:
     results = retriever.retrieve(corpus, queries)
     ndcg, _map, recall, precision = retriever.evaluate(qrels, results, retriever.k_values)
 
+
+# Reference
+If you make advantage of the DREditor in your research, please cite the following in your manuscript:
+
+```
+@misc{huang2024dreditor,
+      title={DREditor: An Time-efficient Approach for Building a Domain-specific Dense Retrieval Model}, 
+      author={Chen Huang and Duanyu Feng and Wenqiang Lei and Jiancheng Lv},
+      year={2024},
+      eprint={2401.12540},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
 
