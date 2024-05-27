@@ -1,5 +1,5 @@
 # DReditor: An Time-efficient Approach for Building a Domain-specific Dense Retrieval Model
-> **Co-author**: Duanyu Feng (Sichuan University), Chen Huang (Sichuan University)
+> **Co-author**/**Contact**: Duanyu Feng (NLP Group, Sichuan University), Chen Huang (NLP Group, Sichuan University)
 
 This is the code of our model **DReditor**, which is an computation-effective approach for domain-specific Dense Retrieval (DR) with training free.
 
